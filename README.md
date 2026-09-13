@@ -31,8 +31,8 @@ https://reactquiz-dm.netlify.app/
 ## Setup
 
 ```bash
-git clone https://github.com/D-Majumder/React_Quiz
-cd React_Quiz
+git clone https://github.com/D-Majumder/react-quiz
+cd react-quiz
 npm install
 npm start
 ```
